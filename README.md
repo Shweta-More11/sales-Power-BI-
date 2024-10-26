@@ -1,4 +1,4 @@
-# POWER_BI-PROJECTS
+# sales analysis
 This Power BI project provides a comprehensive, end-to-end tutorial on building a **Sales Dashboard** designed to visualize sales performance effectively. The dashboard focuses on data analysis and visualization techniques such as time series analysis, advanced charts, and forecasting. The objective is to empower stakeholders with actionable insights, allowing for better decision-making and strategic planning.
 
 **Key Objectives:**
